@@ -4,6 +4,8 @@ Hackintosh files for Latitude 7390
 
 Target Mac OS Version: Monterey (12.0)
 
+Update: Upgraded to macOS Ventura through System Preferences with no changes needed! Still stable and works great
+
 ## Hardware:
 
 - Laptop Model: Latitude 7390 (081B)
@@ -19,7 +21,7 @@ Target Mac OS Version: Monterey (12.0)
 - Network Controller models
   - Wireless: Intel AC 8265 / 8275
   - Ethernet: Intel Ethernet I219-LM
-- Storage: SAMSUNG MZFLV128HCGR-000MV
+- Storage: SAMSUNG MZFLV128HCGR-000MV (Upgraded to WDC WDS100T2B0C-00PXH0 with no changes needed)
 - CFG Lock Offset: 0x52D
 
 ## Other steps needed:
