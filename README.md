@@ -1,10 +1,13 @@
 # Dell Latitude 7390 Hackintosh
 
+OpenCore Version: 0.8.8
+
 Hackintosh files for Latitude 7390
 
 Target Mac OS Version: Monterey (12.0)
 
-Update: Upgraded to macOS Ventura through System Preferences with no changes needed! Still stable and works great
+Update: Upgraded to macOS Ventura 13.1 through System Preferences with no 
+changes needed! Still stable and works great
 
 ## Hardware:
 
