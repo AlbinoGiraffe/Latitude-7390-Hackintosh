@@ -4,6 +4,8 @@ Hackintosh files for Latitude 7390
 
 Target Mac OS Version: Monterey (12.0)
 
+Update: Upgraded to macOS Ventura through System Preferences with no changes needed! Still stable and works great
+
 ## Hardware:
 
 - Laptop Model: Latitude 7390 (081B)
