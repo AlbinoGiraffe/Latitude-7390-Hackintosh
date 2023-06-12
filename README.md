@@ -36,6 +36,7 @@ changes needed! Still stable and works great
   - No kexts needed, native MacOS support
 - Unlock CFG_Lock
   - Need to patch firmware
+- Disable VT-d
 
 # Works
 
