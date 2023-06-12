@@ -56,6 +56,8 @@ changes needed! Still stable and works great
 
 # Config Changes
 
-Kernel -> Quirk -> CustomSMBIOSGuid -> True
+Not needed!
 
-PlatformInfo -> UpdateSMBIOSMode -> Custom
+<strike>Kernel -> Quirk -> CustomSMBIOSGuid -> True</strike>
+
+<strike>PlatformInfo -> UpdateSMBIOSMode -> Custom</strike>
