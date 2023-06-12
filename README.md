@@ -1,12 +1,12 @@
 # Dell Latitude 7390 Hackintosh
 
-OpenCore Version: 0.8.8
+OpenCore Version: 0.9.2
 
 Hackintosh files for Latitude 7390
 
-Target Mac OS Version: Monterey (12.0)
+Target Mac OS Version: Ventura (13.4)
 
-Update: Upgraded to macOS Ventura 13.1 through System Preferences with no 
+Update: Upgraded to macOS Ventura 13.4 through System Preferences with no 
 changes needed! Still stable and works great
 
 ## Hardware:
@@ -18,7 +18,6 @@ changes needed! Still stable and works great
 - Keyboard: AT Translated Set 2 Keyboard (PS/2)
 - Touchpad: DELL081B:00 044E:120A Touchpad (I2C)
 - Audio Codec: Realtek ALC3246 (ALC256)
-
   - 0x100002, layout 5, 11, 13, 14, 16, 17, 19, 20, 21, 22, 23, 24, 28, 33, 56, 57, 66, 67, 69, 70, 76, 77, 88, 97, 99
 
 - Network Controller models
@@ -53,3 +52,8 @@ changes needed! Still stable and works great
 
 - Sidecar buggy
 - Apple TV+ (DRM issue)
+
+# Config Changes
+
+Kernel -> Quirk -> CustomSMBIOSGuid -> True
+PlatformInfo -> UpdateSMBIOSMode -> Custom
